@@ -6,3 +6,5 @@ Clone this repo on your root directory of your server. Now create an empty JSON 
 
 ### Extra:
 In the '/js' folder, you find 'url.js'. This is a little script allows you to just enter `www.yoursite.com/#/{url_code}`, and it will redirect to the PHP script. This is not really necessary, but it looks a lot nicer in my opinion.
+To use the script, put this in the head of your homepage:
+`<script type="text/javascript" src="/path/to/url.js" />`

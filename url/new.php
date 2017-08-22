@@ -1,4 +1,9 @@
 <?php
+	/*
+        Author : Thomas Beukema <thomas@thomasbeukema.me>
+        License: MIT
+    */
+
 	// js/url.js used
 	$jsHelperEnabled = true;
 	// Location of your urls file

@@ -1,4 +1,8 @@
 <?php
+    /*
+        Author : Thomas Beukema <thomas@thomasbeukema.me>
+        License: MIT
+    */
     
     // Location of urls file
     $urls_location = "../blob/urls.json";
